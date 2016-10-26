@@ -1,0 +1,1150 @@
+{
+    "115614281155870723" : {
+        "1" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 1,
+            "message" : "237944243136626688",
+            "moderator" : "B2",
+            "moderator_id" : "110505690358906880",
+            "reason" : "Advertising in  <#237608203460804609> and trying to get people to come to his live stream by attempting to mention @everyone.",
+            "user" : "WeinerinPandasButt",
+            "user_id" : "178340817658839040"
+        },
+        "2" : {
+            "action" : "Kick \ud83d\udc62",
+            "case" : 2,
+            "message" : "238767759507456000",
+            "moderator" : "Ninjaah",
+            "moderator_id" : "110382839551234048",
+            "reason" : "advertisement",
+            "user" : "iHASYOU",
+            "user_id" : "238041396974583810"
+        },
+        "3" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 3,
+            "message" : "239464006258130944",
+            "moderator" : "Ninjaah",
+            "moderator_id" : "110382839551234048",
+            "reason" : "Attempting to tag everyone, spam",
+            "user" : "Computer Windows XP Bot",
+            "user_id" : "239460031706300416"
+        }
+    },
+    "158076636929982465" : {
+        "1" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 1,
+            "message" : "237265549514506250",
+            "moderator" : "!Dex\ud83d\udc27",
+            "moderator_id" : "107248022945058816",
+            "reason" : "ip grabber guy",
+            "user" : "Royals Slave",
+            "user_id" : "192532392118845440"
+        },
+        "10" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 10,
+            "message" : "237664135909736459",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "Matthew",
+            "user_id" : "87033492663197696"
+        },
+        "11" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 11,
+            "message" : "237719355562000384",
+            "moderator" : "Matthew",
+            "moderator_id" : "87033492663197696",
+            "reason" : "toxic and disrespectful",
+            "user" : "Axis",
+            "user_id" : "113681849682755586"
+        },
+        "12" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 12,
+            "message" : "237759005563289602",
+            "moderator" : "Dave",
+            "moderator_id" : "140261386910433280",
+            "reason" : "GG-BRYCE was associated with the mass banning of members half a year ago. Insant Ban when joined",
+            "user" : "GG-BRYCE",
+            "user_id" : "237758454066970624"
+        },
+        "13" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 13,
+            "message" : "237761165126664193",
+            "moderator" : "Dave",
+            "moderator_id" : "140261386910433280",
+            "reason" : "ffs, same person",
+            "user" : "GG-BRYCE/JUSTICE WILL BE SERVED",
+            "user_id" : "237759846005342208"
+        },
+        "14" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 14,
+            "message" : "237761848613535744",
+            "moderator" : "!Dex\ud83e\udd16",
+            "moderator_id" : "107248022945058816",
+            "reason" : "same person as above",
+            "user" : "GG-BRYCE",
+            "user_id" : "237761409075773450"
+        },
+        "15" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 15,
+            "message" : "237764014346731520",
+            "moderator" : "!Dex\ud83e\udd16",
+            "moderator_id" : "107248022945058816",
+            "reason" : "Dave banned cus the same person as above",
+            "user" : "MatthewBannedEveryone",
+            "user_id" : "237763462917390339"
+        },
+        "16" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 16,
+            "message" : "237771494694977537",
+            "moderator" : "Matthew",
+            "moderator_id" : "87033492663197696",
+            "reason" : null,
+            "user" : "GG-BRYCE",
+            "user_id" : "237764739839557634"
+        },
+        "17" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 17,
+            "message" : "237777438342512650",
+            "moderator" : "Dave",
+            "moderator_id" : "140261386910433280",
+            "reason" : "PLEASE CLAIM",
+            "user" : "\u2765\u0e56\u032b\u0360\u0489\u0361\u6d64\u018a\u03b1\u0433\u0198\u4e00\u06a9Y\u2716",
+            "user_id" : "131553396699168768"
+        },
+        "18" : {
+            "action" : "Kick \ud83d\udc62",
+            "case" : 18,
+            "message" : "238052853267038208",
+            "moderator" : "Dave",
+            "moderator_id" : "140261386910433280",
+            "reason" : "Slept with my gf",
+            "user" : "Encounter's Bot",
+            "user_id" : "173935066450231297"
+        },
+        "19" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 19,
+            "message" : "238352142983888897",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "Janhvi",
+            "user_id" : "238050698590289920"
+        },
+        "2" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 2,
+            "message" : "237289892466524171",
+            "moderator" : "!Dex\ud83d\udc27",
+            "moderator_id" : "107248022945058816",
+            "reason" : "invite links spam after multiple warnings",
+            "user" : "TheUnnamedMcMo",
+            "user_id" : "228224535151771648"
+        },
+        "20" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 20,
+            "message" : "238357363185287168",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "hi.",
+            "user_id" : "238350527891636224"
+        },
+        "21" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 21,
+            "message" : "238358960774578176",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "arliell",
+            "user_id" : "238357979437465601"
+        },
+        "22" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 22,
+            "message" : "238366103267442689",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "johanliebert",
+            "user_id" : "238364110817853441"
+        },
+        "23" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 23,
+            "message" : "238371236055351296",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "johanliebert",
+            "user_id" : "238364110817853441"
+        },
+        "24" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 24,
+            "message" : "238371258121584642",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "t-pain",
+            "user_id" : "238368262239289345"
+        },
+        "25" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 25,
+            "message" : "238393465178816512",
+            "moderator" : "!Dex\ud83e\udd16",
+            "moderator_id" : "107248022945058816",
+            "reason" : "maddy banned him for exposing ember",
+            "user" : "lochlann",
+            "user_id" : "178969710556217344"
+        },
+        "26" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 26,
+            "message" : "238398333373251584",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "Janhvi",
+            "user_id" : "221079159663755264"
+        },
+        "27" : {
+            "action" : "Softban \ud83d\udca8 \ud83d\udd28",
+            "case" : 27,
+            "message" : "238694170183598081",
+            "moderator" : "\u0e23\u0452\u05e5l\u05d0 \u2727",
+            "moderator_id" : "185507398562217984",
+            "reason" : null,
+            "user" : "Gabo",
+            "user_id" : "190634577948049408"
+        },
+        "28" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 28,
+            "message" : "238761126555287562",
+            "moderator" : "`! \ud83d\udc09Dangerous\ud83d\udc09",
+            "moderator_id" : "187570149207834624",
+            "reason" : "the",
+            "user" : "Catherinee",
+            "user_id" : "160816569499385856"
+        },
+        "29" : {
+            "action" : "Kick \ud83d\udc62",
+            "case" : 29,
+            "message" : "238761401882116098",
+            "moderator" : "Dave",
+            "moderator_id" : "140261386910433280",
+            "reason" : null,
+            "user" : "Catherinee",
+            "user_id" : "160816569499385856"
+        },
+        "3" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 3,
+            "message" : "237316759814668290",
+            "moderator" : "!Dex\ud83d\udc27",
+            "moderator_id" : "107248022945058816",
+            "reason" : "mona or lilah alt",
+            "user" : "pepe",
+            "user_id" : "237273118937186304"
+        },
+        "30" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 30,
+            "message" : "238761475475243008",
+            "moderator" : "`! \ud83d\udc09Dangerous\ud83d\udc09",
+            "moderator_id" : "187570149207834624",
+            "reason" : "abuse",
+            "user" : "Catherinee",
+            "user_id" : "160816569499385856"
+        },
+        "31" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 31,
+            "message" : "239519525656199178",
+            "moderator" : "SapphireLk",
+            "moderator_id" : "188387593098887169",
+            "reason" : "sapphire: banned bright because he was permanently banned from this server, since he was being a disrespectful cunt back then, and it's perma ban.",
+            "user" : "Bright",
+            "user_id" : "239514005763391488"
+        },
+        "32" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 32,
+            "message" : "239674888040742912",
+            "moderator" : "SapphireLk",
+            "moderator_id" : "188387593098887169",
+            "reason" : "nsfw",
+            "user" : "BanClara",
+            "user_id" : "128066773382594561"
+        },
+        "33" : {
+            "action" : "Softban \ud83d\udca8 \ud83d\udd28",
+            "case" : 33,
+            "message" : "239758885366398977",
+            "moderator" : "\u0e23\u0452\u05e5l\u05d0 \u2727",
+            "moderator_id" : "185507398562217984",
+            "reason" : "spamming self advertising",
+            "user" : "Rest",
+            "user_id" : "150183898851180544"
+        },
+        "34" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 34,
+            "message" : "239847969422049281",
+            "moderator" : "Alan",
+            "moderator_id" : "133567150785953792",
+            "reason" : "being toxic and leaking messages",
+            "user" : "\u3016\u019d\u0181\u0198\u3017\u2727\u1e42!\u1e68\u04ac!\u1e30\u2727",
+            "user_id" : "108693490430402560"
+        },
+        "35" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 35,
+            "message" : "239869562236043264",
+            "moderator" : "Yelldosh",
+            "moderator_id" : "161608624664215553",
+            "reason" : null,
+            "user" : "Maddy",
+            "user_id" : "111286063984586752"
+        },
+        "36" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 36,
+            "message" : "239870010544226304",
+            "moderator" : "85126",
+            "moderator_id" : "160490171089944576",
+            "reason" : "cm alt",
+            "user" : "Mali",
+            "user_id" : "213010497627357184"
+        },
+        "37" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 37,
+            "message" : "239922922251091968",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "Janhvi",
+            "user_id" : "239922677886746624"
+        },
+        "38" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 38,
+            "message" : "239966327488512002",
+            "moderator" : "Dave",
+            "moderator_id" : "140261386910433280",
+            "reason" : "banned for IP grabber",
+            "user" : "(nbk )DELTA",
+            "user_id" : "156187057717248000"
+        },
+        "39" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 39,
+            "message" : "240277245413818368",
+            "moderator" : "Matthew",
+            "moderator_id" : "87033492663197696",
+            "reason" : "posting multiple inv links",
+            "user" : "\u0147\u0197tro\ud835\udd30\u03b2",
+            "user_id" : "169166318099103744"
+        },
+        "4" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 4,
+            "message" : "237316770489303040",
+            "moderator" : "Matthew",
+            "moderator_id" : "87033492663197696",
+            "reason" : "Lawliet was monas alt",
+            "user" : "Lawliet",
+            "user_id" : "237271050101063680"
+        },
+        "40" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 40,
+            "message" : "240856715174608897",
+            "moderator" : "Catherinee",
+            "moderator_id" : "160816569499385856",
+            "reason" : null,
+            "user" : "Souf",
+            "user_id" : "165160395873583105"
+        },
+        "41" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 41,
+            "message" : "240930481367941120",
+            "moderator" : "\u0e23\u0452\u05e5l\u05d0 \u2727",
+            "moderator_id" : "185507398562217984",
+            "reason" : "jay's alt",
+            "user" : "Wizzzz ~ \u2665",
+            "user_id" : "239851270838419456"
+        },
+        "5" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 5,
+            "message" : "237337786644955157",
+            "moderator" : "!Dex\ud83d\udc27",
+            "moderator_id" : "107248022945058816",
+            "reason" : "using personal pics",
+            "user" : "Dandy is Hot",
+            "user_id" : "235532344793104384"
+        },
+        "6" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 6,
+            "message" : "237339005073489920",
+            "moderator" : "!Dex\ud83d\udc27",
+            "moderator_id" : "107248022945058816",
+            "reason" : "using personal pics",
+            "user" : "peoleareannoying",
+            "user_id" : "237318263460069377"
+        },
+        "7" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 7,
+            "message" : "237373223921123338",
+            "moderator" : "!Dex\ud83d\udc27",
+            "moderator_id" : "107248022945058816",
+            "reason" : "Used maddys pic as profile pic",
+            "user" : "I AM SMILE",
+            "user_id" : "237372766226087946"
+        },
+        "8" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 8,
+            "message" : "237376170893508608",
+            "moderator" : "\u043c\u03b1\u2202\u2202\u01b4",
+            "moderator_id" : "146317567118540800",
+            "reason" : "salty",
+            "user" : "Maddy hates me",
+            "user_id" : "237372766226087946"
+        },
+        "9" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 9,
+            "message" : "237646502695010314",
+            "moderator" : "!Dex\ud83d\udc27",
+            "moderator_id" : "107248022945058816",
+            "reason" : "using say command to post a \"micro penis\" image",
+            "user" : "Nugget",
+            "user_id" : "213709731385049089"
+        }
+    },
+    "174991160274583552" : {
+        "1" : {
+            "action" : "Kick \ud83d\udc62",
+            "case" : 1,
+            "message" : "239976658751324160",
+            "moderator" : "\u269e\u01b8\u0335\u0321\u04dc\u0335\u0328\u0304\u01b7\u269f W\u03c3\u03b7der \u5947\u8ff9",
+            "moderator_id" : "138431969418543104",
+            "reason" : null,
+            "user" : "ex3 AwesomeGame",
+            "user_id" : "239459859521732608"
+        },
+        "10" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 10,
+            "message" : "240098467777609729",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "\u3016\u2131\u0394\u0110\u20ac\u3017\u4e43\u4e47\uff34\u4e39\u8620",
+            "user_id" : "189832762138558465"
+        },
+        "11" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 11,
+            "message" : "240099858273271809",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "\u32d0 | \u0e56\u06e3\u06dcIce",
+            "user_id" : "205644642392211456"
+        },
+        "12" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 12,
+            "message" : "240175170390589440",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "\u3010\ud835\udcf2\ud835\udceb\ud835\udcec\u3011Cosmic",
+            "user_id" : "197773536146882560"
+        },
+        "13" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 13,
+            "message" : "240207675428831232",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "Voidling",
+            "user_id" : "219528280187994112"
+        },
+        "14" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 14,
+            "message" : "240220264535818251",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "techboy195_YT",
+            "user_id" : "240214912511639552"
+        },
+        "15" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 15,
+            "message" : "240231504133881857",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "Twentysix",
+            "user_id" : "211923463139491840"
+        },
+        "16" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 16,
+            "message" : "240282881329594368",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "lolimhard",
+            "user_id" : "238514613405089795"
+        },
+        "17" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 17,
+            "message" : "240282898870173697",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "\u300a\u01b8\u04dc\u01b7\u300b\u01ac\u03b5\ud835\udce1\ud835\udcc7\u03cc\u044fV\u0394\u012e\u24c3",
+            "user_id" : "231728529702649866"
+        },
+        "18" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 18,
+            "message" : "240282923230691328",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "Akol",
+            "user_id" : "240067415021453312"
+        },
+        "19" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 19,
+            "message" : "240282964062109699",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "KillerYT OBEY",
+            "user_id" : "218925046754705408"
+        },
+        "2" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 2,
+            "message" : "240026173633986560",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "\u00d0\u039b\u5c3a\u049a \u0442e\u03b1\u043cer",
+            "user_id" : "240006464414941185"
+        },
+        "20" : {
+            "action" : "Kick \ud83d\udc62",
+            "case" : 20,
+            "message" : "240299541515993088",
+            "moderator" : "\u01b8\u04dc\u01b7\uff2a\u03c3\uff4c\uff4c\u0443\u2728",
+            "moderator_id" : "130862798774206464",
+            "reason" : null,
+            "user" : "Crocopus's Test Dummy",
+            "user_id" : "224202285302022145"
+        },
+        "21" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 21,
+            "message" : "240421016021630976",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "\u227a\u01a4\u00d8\u01a4\u227b\u0f3bSc0rPi0\u9fc4",
+            "user_id" : "208849884306997248"
+        },
+        "22" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 22,
+            "message" : "240480195008659457",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "\u300a\u01b8\u04dc\u01b7\u300b\u00d8l\u0269v\u1ec1\u1e5d\u0191\u01b2\u01a6Y",
+            "user_id" : "208934087396818946"
+        },
+        "23" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 23,
+            "message" : "240690861321617409",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "khan",
+            "user_id" : "221247818495426560"
+        },
+        "24" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 24,
+            "message" : "240690891503697931",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "Vulconix",
+            "user_id" : "222048650438770688"
+        },
+        "25" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 25,
+            "message" : "240741493675917312",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "\u0f3a\u0e2c!\u03b7\u0442\u03b5\u044f\u0f3b",
+            "user_id" : "125810595525033984"
+        },
+        "26" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 26,
+            "message" : "240742256280076288",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "skrillex",
+            "user_id" : "240724412888776714"
+        },
+        "27" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 27,
+            "message" : "240752539903983616",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "\u3016\u0466\u2112\u3017\u0f04\u019d\u03b1\u043dz\u0f3b\u2622\u8bf6\u02b3\u1d49\u1d4f\u1d57",
+            "user_id" : "219061546603642880"
+        },
+        "28" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 28,
+            "message" : "240786042096058369",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "Lucent \u1d33\u1d52\u1d48",
+            "user_id" : "206858482660409346"
+        },
+        "29" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 29,
+            "message" : "240792878278901760",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "\u01b8\u04dc\u01b7\u0e56\u06e3\u06dc\ud835\udcd9\ud835\udcde\ud835\udcd7\ud835\udcdd\u0f3b",
+            "user_id" : "137739597575618561"
+        },
+        "3" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 3,
+            "message" : "240028075469963265",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "\u300a\u01b8\u04dc\u01b7\u300bWARTHAWK",
+            "user_id" : "222026232966021120"
+        },
+        "30" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 30,
+            "message" : "240792958725521408",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "\u300a\u01b8\u04dc\u01b7\u300bProZ",
+            "user_id" : "240757576659238922"
+        },
+        "31" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 31,
+            "message" : "240811755801018368",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "halil",
+            "user_id" : "223884905501687809"
+        },
+        "32" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 32,
+            "message" : "240905695921307659",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "\u01b8\u04dc\u01b7 \u0e56\u06e3\u06dc\uff34\u00d8\uff38\u0197\uff23\u2765\u65cf\u0166\u03b2 \u2301\u2620",
+            "user_id" : "208226424383864832"
+        },
+        "33" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 33,
+            "message" : "240909729013039114",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "\u01b8\u04dc\u01b7swipeborg",
+            "user_id" : "213036241346756609"
+        },
+        "34" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 34,
+            "message" : "240916946051268608",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "\u3016\u019d\u0181\u0198\u2074\u00b2\u2070\u3017Savvy",
+            "user_id" : "175043088354508801"
+        },
+        "35" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 35,
+            "message" : "240927868576727040",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "\u2299\u20ae\u20b7\u2766_\u015c\u01a4\u0e04\u03ae\u0454R",
+            "user_id" : "228607103588106243"
+        },
+        "4" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 4,
+            "message" : "240066467733831680",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "\u01b8\u04dc\u01b7 \u2131\u0394\u0166\u0394\ud83d\udec7\u02e3",
+            "user_id" : "232886225218961408"
+        },
+        "5" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 5,
+            "message" : "240066538453991424",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "\u15ec\u13dc\u211b\u029e \u1566(\u25d4\u0460\u25d4)\u1565",
+            "user_id" : "186789023849775104"
+        },
+        "6" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 6,
+            "message" : "240069033980854283",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "InstantMysticYT",
+            "user_id" : "232886797334609920"
+        },
+        "7" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 7,
+            "message" : "240083710681022465",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "\u0166\u0454\u03c2\u0452\u0e20\u0e4f\u26a1\u01e4\u0452\u0e4f\u0e23t",
+            "user_id" : "233214274238021633"
+        },
+        "8" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 8,
+            "message" : "240083724731940864",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "BRNS NAWAF",
+            "user_id" : "234299203004792833"
+        },
+        "9" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 9,
+            "message" : "240092972492914688",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "\u00d8l\u0269v\u1ec1\u1e5d\u0191\u01b2\u01a6Y GA\u15f0\u0197\u0147\u13b6",
+            "user_id" : "234459040413908992"
+        }
+    },
+    "189892859531493376" : {
+        "1" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 1,
+            "message" : "239572476391063554",
+            "moderator" : "!Dex\ud83e\udd16",
+            "moderator_id" : "107248022945058816",
+            "reason" : "test",
+            "user" : "Gravebot",
+            "user_id" : "81026656365453312"
+        },
+        "2" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 2,
+            "message" : "239950942869520384",
+            "moderator" : "!Dex\ud83e\udd16",
+            "moderator_id" : "107248022945058816",
+            "reason" : "test",
+            "user" : "Vonodosh",
+            "user_id" : "192332211549241344"
+        }
+    },
+    "195278167181754369" : {
+        "1" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 1,
+            "message" : "237246282299605003",
+            "moderator" : "!Dex\ud83d\udc27",
+            "moderator_id" : "107248022945058816",
+            "reason" : "mass role mention spam",
+            "user" : "jmshters",
+            "user_id" : "237243532438405121"
+        },
+        "10" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 10,
+            "message" : "237559377823924225",
+            "moderator" : "Mr. Sankyy",
+            "moderator_id" : "217257472581304321",
+            "reason" : "For dissing staff and users and being an obvious troll",
+            "user" : "Seafie",
+            "user_id" : "237421771060543488"
+        },
+        "11" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 11,
+            "message" : "237598764825575424",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "Gamer2002",
+            "user_id" : "237594270444421120"
+        },
+        "12" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 12,
+            "message" : "237672278253371394",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "\\\\",
+            "user_id" : "237022229118844928"
+        },
+        "13" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 13,
+            "message" : "237733521614045185",
+            "moderator" : "BlazingFire007",
+            "moderator_id" : "190313064367652864",
+            "reason" : "Banned a troll account taht somehow believes he is my alt <@141743593676210177>",
+            "user" : "Mommy",
+            "user_id" : "237715446994829315"
+        },
+        "14" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 14,
+            "message" : "238450229853159424",
+            "moderator" : "Killdemic",
+            "moderator_id" : "192052965622677504",
+            "reason" : null,
+            "user" : "_Waffletraktor_",
+            "user_id" : "192781594564624387"
+        },
+        "15" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 15,
+            "message" : "238804889025773569",
+            "moderator" : "Killdemic",
+            "moderator_id" : "192052965622677504",
+            "reason" : null,
+            "user" : "LinkNPkmn",
+            "user_id" : "194482086038470658"
+        },
+        "16" : {
+            "action" : "Kick \ud83d\udc62",
+            "case" : 16,
+            "message" : "239671768481136650",
+            "moderator" : "Mr. Sankyy",
+            "moderator_id" : "217257472581304321",
+            "reason" : null,
+            "user" : "Zuppyterra",
+            "user_id" : "193692127597821952"
+        },
+        "17" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 17,
+            "message" : "239677194845159434",
+            "moderator" : "Mr. Sankyy",
+            "moderator_id" : "217257472581304321",
+            "reason" : "Banned my alt because I forgot it's password",
+            "user" : "Woody",
+            "user_id" : "238830185355411456"
+        },
+        "18" : {
+            "action" : "Kick \ud83d\udc62",
+            "case" : 18,
+            "message" : "240151009173700609",
+            "moderator" : "Mr. Sankyy",
+            "moderator_id" : "217257472581304321",
+            "reason" : "Kicked my alt, because why not.",
+            "user" : "WoodyLandy",
+            "user_id" : "240147273995124738"
+        },
+        "19" : {
+            "action" : "Kick \ud83d\udc62",
+            "case" : 19,
+            "message" : "240500536003002368",
+            "moderator" : "belungawhale",
+            "moderator_id" : "192492507102314496",
+            "reason" : "obvious",
+            "user" : "fucku",
+            "user_id" : "240488128543064064"
+        },
+        "2" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 2,
+            "message" : "237250186554900481",
+            "moderator" : "!Dex\ud83d\udc27",
+            "moderator_id" : "107248022945058816",
+            "reason" : "Alt account, Mass staff mention spam.",
+            "user" : "FoodLover2412",
+            "user_id" : "237249240521244673"
+        },
+        "20" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 20,
+            "message" : "240831942210093056",
+            "moderator" : "Zuppyterra",
+            "moderator_id" : "193692127597821952",
+            "reason" : "Perma ban because he's just an obvious troll.",
+            "user" : "//Arcade//",
+            "user_id" : "210853344145571840"
+        },
+        "3" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 3,
+            "message" : "237258769703239680",
+            "moderator" : "!Dex\ud83d\udc27",
+            "moderator_id" : "107248022945058816",
+            "reason" : "alt of the guy mass spaming staff roles",
+            "user" : "Doraemonnobita2016",
+            "user_id" : "237253026782511105"
+        },
+        "4" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 4,
+            "message" : "237274124102270977",
+            "moderator" : "!Dex\ud83d\udc27",
+            "moderator_id" : "107248022945058816",
+            "reason" : "Alt again with role mention spam",
+            "user" : "chloe450",
+            "user_id" : "237264343601774592"
+        },
+        "5" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 5,
+            "message" : "237278110737760257",
+            "moderator" : "x\u00b3",
+            "moderator_id" : "181625814335488001",
+            "reason" : "Mention spam (Autoban)",
+            "user" : "NormansBot",
+            "user_id" : "170447942237290496"
+        },
+        "6" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 6,
+            "message" : "237305079819010048",
+            "moderator" : "Drflash55",
+            "moderator_id" : "110841434222891008",
+            "reason" : "troll account disturbing community",
+            "user" : "Samuel Sewall",
+            "user_id" : "236905269613953027"
+        },
+        "7" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 7,
+            "message" : "237409609747398656",
+            "moderator" : "x\u00b3",
+            "moderator_id" : "181625814335488001",
+            "reason" : "Mention spam (Autoban)",
+            "user" : "testsalt",
+            "user_id" : "237407151142862849"
+        },
+        "8" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 8,
+            "message" : "237411103280201738",
+            "moderator" : "belungawhale",
+            "moderator_id" : "192492507102314496",
+            "reason" : "testing modlog",
+            "user" : "testsalt",
+            "user_id" : "237407151142862849"
+        },
+        "9" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 9,
+            "message" : "237412250028212224",
+            "moderator" : "belungawhale",
+            "moderator_id" : "192492507102314496",
+            "reason" : "pizzabox's alt",
+            "user" : "Ninvadeas",
+            "user_id" : "237310231174971393"
+        }
+    },
+    "206927823321956353" : {
+        "1" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 1,
+            "message" : "239816077377404928",
+            "moderator" : "Lego",
+            "moderator_id" : "186730180872634368",
+            "reason" : "They were an obvious troll.",
+            "user" : "_Waffletraktor_",
+            "user_id" : "192781594564624387"
+        },
+        "2" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 2,
+            "message" : "239824926322720769",
+            "moderator" : "Lego",
+            "moderator_id" : "186730180872634368",
+            "reason" : "NSFW",
+            "user" : "Hirasaka",
+            "user_id" : "211277767583596544"
+        },
+        "3" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 3,
+            "message" : "239838326192865280",
+            "moderator" : "belungawhale",
+            "moderator_id" : "192492507102314496",
+            "reason" : "spamming inappropriate stuff again",
+            "user" : "Hirasaka",
+            "user_id" : "211277767583596544"
+        }
+    },
+    "208979998814633984" : {
+        "1" : {
+            "action" : "Kick \ud83d\udc62",
+            "case" : 1,
+            "message" : "237366014860460033",
+            "moderator" : "!Dex\ud83d\udc27",
+            "moderator_id" : "107248022945058816",
+            "reason" : null,
+            "user" : "Musix! \ud83c\udfa7",
+            "user_id" : "189415882827628546"
+        },
+        "2" : {
+            "action" : "Softban \ud83d\udca8 \ud83d\udd28",
+            "case" : 2,
+            "message" : "237366233199149056",
+            "moderator" : "!Dex\ud83d\udc27",
+            "moderator_id" : "107248022945058816",
+            "reason" : "Test, to show how mod log works",
+            "user" : "Musix! \ud83c\udfa7",
+            "user_id" : "189415882827628546"
+        }
+    },
+    "218766410837524491" : {
+        "1" : {
+            "action" : "Kick \ud83d\udc62",
+            "case" : 1,
+            "message" : "240520629982461953",
+            "moderator" : "rjt.rockx",
+            "moderator_id" : "192060404501839872",
+            "reason" : null,
+            "user" : "DerpInATank",
+            "user_id" : "237027065466060801"
+        },
+        "2" : {
+            "action" : "Kick \ud83d\udc62",
+            "case" : 2,
+            "message" : "240521206107734016",
+            "moderator" : "rjt.rockx",
+            "moderator_id" : "192060404501839872",
+            "reason" : null,
+            "user" : "DerpInATank",
+            "user_id" : "237027065466060801"
+        },
+        "3" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 3,
+            "message" : "240865878286139393",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "spammer",
+            "user_id" : "240865175467589635"
+        },
+        "4" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 4,
+            "message" : "240930700763594753",
+            "moderator" : "LinkNPkmn",
+            "moderator_id" : "194482086038470658",
+            "reason" : "troll",
+            "user" : "RedCyborgOD",
+            "user_id" : "227658201082888192"
+        },
+        "5" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 5,
+            "message" : "240930727137378304",
+            "moderator" : "LinkNPkmn",
+            "moderator_id" : "194482086038470658",
+            "reason" : "Troll",
+            "user" : "RedCyborgOD",
+            "user_id" : "218076406704242699"
+        }
+    },
+    "231822107753971722" : {
+        "1" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 1,
+            "message" : "240916080707633153",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "AgarCJYouTube",
+            "user_id" : "229377824652394496"
+        },
+        "2" : {
+            "action" : "Ban \ud83d\udd28",
+            "case" : 2,
+            "message" : "240916233065594890",
+            "moderator" : null,
+            "moderator_id" : null,
+            "reason" : null,
+            "user" : "Luke Gaming",
+            "user_id" : "226435953420402690"
+        }
+    }
+}
